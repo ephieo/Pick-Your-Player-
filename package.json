@@ -1,0 +1,23 @@
+{
+  "name": "pick-your-player-",
+  "version": "1.0.0",
+  "description": "An app that allows you to create collectors cards of your favourite bias.",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephieo/Pick-Your-Player-.git"
+  },
+  "author": "Ephie Oyedoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephieo/Pick-Your-Player-/issues"
+  },
+  "homepage": "https://github.com/ephieo/Pick-Your-Player-#readme"
+}
